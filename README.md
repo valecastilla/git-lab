@@ -20,6 +20,12 @@ b = 3
 a + b
 ```
 
+### Lists
+
+- Turn on GitHub Pages
+- Outline my portfolio
+- Introduce myself to the world
+
 ## References
 
 [Github documentation]([https://git-scm.com/book/en/v2](https://docs.github.com/en))
