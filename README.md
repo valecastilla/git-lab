@@ -12,6 +12,14 @@ Práctica de laboratorio
 
 ![Github logo.](https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png)
 
+### Code examples
+
+```
+a = 2
+b = 3
+a + b
+```
+
 ## References
 
 [Github documentation]([https://git-scm.com/book/en/v2](https://docs.github.com/en))
