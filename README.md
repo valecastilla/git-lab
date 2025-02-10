@@ -1,5 +1,11 @@
 # Git and github laboratory
 
+Valentina Castilla
+
+## Description
+
 Git practice laboratory
 
-Valentina Castilla
+## Contents
+
+## References
