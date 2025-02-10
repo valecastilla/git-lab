@@ -10,7 +10,7 @@ Práctica de laboratorio
 
 ### Images
 
-![Github logo.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fslack.com%2Fmarketplace%2FA01BP7R4KNY-github&psig=AOvVaw1rHBvS3fbFHqhjk1UQq7v_&ust=1739305544567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiij5v4uYsDFQAAAAAdAAAAABAJ)
+![Github logo.](https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png)
 
 ## References
 
