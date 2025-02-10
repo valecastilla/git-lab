@@ -4,7 +4,7 @@ Valentina Castilla
 
 ## Description
 
-Git practice laboratory
+Práctica de laboratorio
 
 ## Contents
 
