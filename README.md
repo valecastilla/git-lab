@@ -11,6 +11,7 @@ Práctica de laboratorio
 ### Images
 
 ![Github logo.](https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png)
+![Github image.](https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg)
 
 ### Code examples
 
