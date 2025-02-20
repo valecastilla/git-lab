@@ -11,3 +11,4 @@ resultsub = a - b
 print("The result of the substraction is:", resultsub)
 
 # Display multiplication
+# Display the subtraction
